@@ -1,33 +1,43 @@
 # CodeAlpha Basic Chatbot
 
-## Project Overview
-This project is a simple rule-based chatbot developed using Python as part of the CodeAlpha Python Programming Internship.
-
-## Objective
-To build a chatbot that interacts with users and responds to predefined messages using conditional logic.
+A simple rule-based chatbot built with Python. The chatbot responds to predefined user messages using functions, loops, and conditional logic.
 
 ## Features
+
 - Greets users
 - Responds to common questions
 - Provides help commands
+- Handles unknown input with a fallback response
 - Exits gracefully
 
 ## Technologies Used
+
 - Python
 - Functions
 - Loops
-- Conditional Statements
-- Input/Output
+- Conditional statements
+- Terminal input/output
 
-## How to Run the Project
-1. Open the project folder
-2. Run the command:
-   python chatbot.py
-3. Start chatting with the chatbot
+## How to Run
+
+1. Clone this repository.
+2. Open the project folder.
+3. Run the chatbot:
+
+```bash
+python chatbot.py
+```
 
 ## Example Commands
-hello  
-how are you  
-what is your name  
-help  
+
+```text
+hello
+how are you
+what is your name
+help
 bye
+```
+
+## Author
+
+Ashutosh Tiwari
